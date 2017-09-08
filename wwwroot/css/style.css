@@ -1,0 +1,33 @@
+/* * {
+    outline: 1px dotted red;
+} */
+#main{
+    width: 25%;
+    margin: 10% auto 0;
+}
+#result{
+    width: 100%;
+}
+#result>p{
+    display: inline-block;
+    margin: 0.5% 3%;
+}
+#buttons>button{
+    margin: 0.5% 6%;
+    width: auto;
+    color: white;
+    background: lightblue;
+}
+#image {
+    width: 80px;
+    height: 80px;  
+    margin: 15% auto;
+    /* border: 1px solid black; */
+}
+#box{
+    width: 98%;
+    border: 1px solid black;
+}
+#message>p{
+    margin-left: 2%;
+}

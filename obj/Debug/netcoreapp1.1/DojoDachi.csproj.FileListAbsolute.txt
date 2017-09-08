@@ -1,0 +1,8 @@
+/Users/vitalieb/Desktop/DojoAssignments/netCore/ASP_NET_CORE/DojoDachi/bin/Debug/netcoreapp1.1/DojoDachi.deps.json
+/Users/vitalieb/Desktop/DojoAssignments/netCore/ASP_NET_CORE/DojoDachi/bin/Debug/netcoreapp1.1/DojoDachi.runtimeconfig.json
+/Users/vitalieb/Desktop/DojoAssignments/netCore/ASP_NET_CORE/DojoDachi/bin/Debug/netcoreapp1.1/DojoDachi.runtimeconfig.dev.json
+/Users/vitalieb/Desktop/DojoAssignments/netCore/ASP_NET_CORE/DojoDachi/bin/Debug/netcoreapp1.1/DojoDachi.dll
+/Users/vitalieb/Desktop/DojoAssignments/netCore/ASP_NET_CORE/DojoDachi/bin/Debug/netcoreapp1.1/DojoDachi.pdb
+/Users/vitalieb/Desktop/DojoAssignments/netCore/ASP_NET_CORE/DojoDachi/obj/Debug/netcoreapp1.1/DojoDachi.AssemblyInfo.cs
+/Users/vitalieb/Desktop/DojoAssignments/netCore/ASP_NET_CORE/DojoDachi/obj/Debug/netcoreapp1.1/DojoDachi.dll
+/Users/vitalieb/Desktop/DojoAssignments/netCore/ASP_NET_CORE/DojoDachi/obj/Debug/netcoreapp1.1/DojoDachi.pdb

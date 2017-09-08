@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>DojoDachi</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="~/javascript/no_refresh.js"></script>
+    <link rel="stylesheet" href="~/css/style.css">
+</head>
+<body>
+    <div id="main">
+        <div id="result">
+            <p>Energy: <span id="energy">@ViewBag.D.energy</span></p>
+            <p>Fullness: <span id="fullness">@ViewBag.D.fullness</span></p>
+            <p>Meals: <span id="meals">@ViewBag.D.meals</span></p>
+            <p>Happiness: <span id="happiness">@ViewBag.D.happiness</span></p>
+            <!-- Here we are printing the result from the AJAX response -->
+        </div>
+        <div id="box">
+            <div id="image">
+                <img src="~/images/born.png">
+            </div>
+            <div id="message">
+                <p id="msg">@ViewBag.msg</p>
+            </div>
+        </div>
+        <div id="buttons">
+            <button class="action" id="play">Play</button>
+            <button class="action" id="feed">Feed</button>
+            <button class="action" id="work">Work</button>
+            <button class="action" id="sleep">Sleep</button>
+        </div>
+    </div>
+</body>
+</html>
